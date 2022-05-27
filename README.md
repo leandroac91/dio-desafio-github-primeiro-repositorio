@@ -2,7 +2,7 @@
 
 Desafio de Projeto Git/GitHub
 
-Nesta placa vocês terão acessos á alguns comandos básicos , aprendendo a criar uma pasta, um arquivo e a como compartilhar o conteúdo do seu desktop com o github
+Nesta  repositórios vocês poderam tem  acess à comandos básicos de como criar, excluir arquivos no git. Também aprenderam a compartilhar os arquivos produzidos no desktop com  seu repoditório online github.
 
 ## Links Úteis
 [Sintax  Básica de  Markdown](https://www.markdownguide.org/basic-syntax/)
