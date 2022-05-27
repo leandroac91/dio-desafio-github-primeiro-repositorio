@@ -2,7 +2,8 @@
 
 Desafio de Projeto Git/GitHub
 
-Nesta  repositórios vocês poderam tem  acess à comandos básicos de como criar, excluir arquivos no git. Também aprenderam a compartilhar os arquivos produzidos no desktop com  seu repoditório online github.
+Sejam muito bem vindos, neste repositório vocês terão acesso  a comandos básicos utilizados no Git.
+Também aprenderão à como compartilhar seu conteúdos produzidos no seu computador com seu repositório online github.
 
 ## Links Úteis
 [Sintax  Básica de  Markdown](https://www.markdownguide.org/basic-syntax/)
